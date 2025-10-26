@@ -3,8 +3,8 @@
 <p align="center">
 I'm an aspiring <strong>Cybersecurity and Software Developer</strong> passionate about technology, innovation, and problem-solving.<br>
 🎓 Recent <strong>BSc. Information Technology</strong> graduate, currently pursuing a <strong>Master’s in Cybersecurity and Threat Intelligence</strong> at the University of Guelph.<br>
-💻 Skilled in <strong>Python</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>CSS</strong>, and continuously improving my skills in backend and web development.<br>
-🚀 Interested in software engineering, cybersecurity, and IT infrastructure — with a focus on building secure, efficient systems.<br>
+💻 Skilled in <strong>Python</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Django</strong>, and <strong>React Native</strong>, with growing experience in <strong>Azure Cloud</strong>.<br>
+🚀 Interested in software engineering, cybersecurity, and cloud computing — with a focus on building secure, efficient systems.<br>
 ☕ When I’m not coding, I’m exploring cybersecurity tools, learning new frameworks, or sharing knowledge with others.
 </p>
 
@@ -17,6 +17,9 @@ I'm an aspiring <strong>Cybersecurity and Software Developer</strong> passionate
   <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </p>
