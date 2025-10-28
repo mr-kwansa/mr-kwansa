@@ -22,6 +22,8 @@ I'm an aspiring <strong>Cybersecurity and Software Developer</strong> passionate
   <img src="https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Power%20Automate-333333?style=for-the-badge&logo=powerautomate&logoColor=0089D6" />
+  <img src="https://img.shields.io/badge/-Power%20Apps-333333?style=for-the-badge&logo=powerapps&logoColor=742774" />
 </p>
 
 ---
